@@ -1,5 +1,5 @@
 # terraform-ansible-dockerfile
- This is Dockerfile of terraform v0.9.6 , Ansible v2.3.0.0 (epel-release) and git client.
+ This is Dockerfile of terraform v0.9.6 , Ansible v2.3.0.0 (epel-release latest) and git client.
 
 ## Usage
 For example, build and use it as follows.
